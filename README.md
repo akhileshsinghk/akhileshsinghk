@@ -2,7 +2,7 @@ Hi there 👋!
 
 #### Who I am?
 
-- A Senior Python Developer & AI Engineer based in **Texas, USA** with 8+ years of experience.
+- A Senior Python Developer & AI Engineer based in **Floirda, USA** with 8+ years of experience.
 - See my portfolio at **[akhileshsinghk.github.io](https://akhileshsinghk.github.io)**.
 
 #### What I'm doing?
